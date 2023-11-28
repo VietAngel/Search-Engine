@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="165fb5a2-0591-479f-92c8-1022ade87586" name="Changes" comment="After submission, reformat 1 line :(">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a1_2001040024/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a1_2001040024/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a1_2001040024/Doc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a1_2001040024/Doc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a1_2001040024/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a1_2001040024/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a1_2001040024/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a1_2001040024/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a1_2001040024/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a1_2001040024/Word.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2X6yvVvjxPC1v56L7fUAEOQ53nY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/Dat/repos/se1-a1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/a1_2001040024" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="165fb5a2-0591-479f-92c8-1022ade87586" name="Changes" comment="" />
+      <created>1697963336187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697963336187</updated>
+      <workItem from="1697964936710" duration="263000" />
+      <workItem from="1697965218548" duration="142000" />
+      <workItem from="1697965742878" duration="86000" />
+      <workItem from="1697965843982" duration="25000" />
+      <workItem from="1697966847227" duration="92000" />
+      <workItem from="1697967013740" duration="244000" />
+      <workItem from="1698054321302" duration="2622000" />
+      <workItem from="1698067259706" duration="10422000" />
+      <workItem from="1698108660898" duration="456000" />
+      <workItem from="1698236555323" duration="274000" />
+      <workItem from="1698241906646" duration="993000" />
+    </task>
+    <task id="LOCAL-00001" summary="Moved to maven build system">
+      <option name="closed" value="true" />
+      <created>1697963558038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697963558038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created a dummy, and refactor code for difference">
+      <option name="closed" value="true" />
+      <created>1698074651691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698074651691</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final version before submission">
+      <option name="closed" value="true" />
+      <created>1698076027630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698076027630</updated>
+    </task>
+    <task id="LOCAL-00004" summary="After submission, reformat 1 line :(">
+      <option name="closed" value="true" />
+      <created>1698077097203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698077097203</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Moved to maven build system" />
+    <MESSAGE value="Created a dummy, and refactor code for difference" />
+    <MESSAGE value="Final version before submission" />
+    <MESSAGE value="After submission, reformat 1 line :(" />
+    <option name="LAST_COMMIT_MESSAGE" value="After submission, reformat 1 line :(" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
